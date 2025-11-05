@@ -1,5 +1,5 @@
 # my-first-project
 
-- contribution from a forked repo
+- contribution from a forked repository
 
 
