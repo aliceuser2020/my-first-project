@@ -1,5 +1,3 @@
 # my-first-project
-
-- contribution from a forked repository
-
+first line in the readme
 
